@@ -14,6 +14,7 @@ use colored::Colorize;
 fn main() {
     let client = Client::new();
     loop {
+        print!("\x1B[2J\x1B[1;1H");
         print!("{}", "$ ".truecolor(255, 255, 255));
         stdout().flush().unwrap();
         let mut search = String::new();
