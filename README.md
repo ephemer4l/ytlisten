@@ -1,7 +1,7 @@
 # ytlisten
 Invidious scraper to play music from your terminal written in Rust
 
-<img src="preview/preview.gif" alt="" width="200"/>
+<img src="preview/preview.gif" alt="" width="500"/>
 
 ## Installation
 ```bash
