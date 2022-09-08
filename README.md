@@ -9,6 +9,7 @@ cargo install --git https://github.com/ephemer4l/ytlisten.git
 ```
 ## Dependencies
 - mpv
+- yt-dlp
 
 ## TODO
 - prettier tui
